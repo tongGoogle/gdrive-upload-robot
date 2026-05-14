@@ -193,7 +193,7 @@ The worker expects POST requests from Telegram webhooks with the following paylo
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.10 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
